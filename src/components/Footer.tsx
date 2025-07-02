@@ -58,7 +58,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center">
                 <span className="mr-3">📱</span>
-                <span>+923069676299</span>
+                <span>+447572479604</span>
               </div>
               <div className="flex items-center">
                 <span className="mr-3">🌍</span>
